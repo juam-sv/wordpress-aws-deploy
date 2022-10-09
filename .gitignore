@@ -88,4 +88,3 @@ terraform.rc
 *.terraform.lock.hcl*
 ansible/hosts
 ansible/vars/tf_ansible_vars_file.yml
-terraform/variables.tf
