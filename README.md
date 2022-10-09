@@ -76,6 +76,9 @@ ansible-playbook -i hosts main.yml -vvv
 - [x] compose do nginx
 - [x] config do nginx
 - [x] README.md 
+- [ ] Corrigir o redirecionamento do NGINX
+- [ ] Adicionar o variables.tfvars.exemple
+- [ ] Rodar o ansible automaticamente com o ansible_local pelo terraform
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
