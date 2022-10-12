@@ -1,5 +1,7 @@
 # Deploy do Wordpress na AWS automatizado
 
+## Veja o artigo completo [aqui](https://juamsv.netlify.app/portifolio/deploy-wordpress/)
+
 Neste projeto estão sendo utilizados as seguintes stacks:
 - AWS
 - RDS
